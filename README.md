@@ -25,5 +25,5 @@ https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&lo
 <hr>
 
  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinihdmv&hide_progress=true)
 
